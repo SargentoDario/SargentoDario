@@ -14,7 +14,7 @@
 
 🌱 Actualmente estoy aprendiendo Node.js
 
-🙏 Busco colaborar en alguna pagina wed
+🙏 Busco colaborar en alguna pagina web
 
 🤔 Busco aprender nuevas cosas
 
